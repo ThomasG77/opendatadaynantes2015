@@ -144,7 +144,9 @@ En ouvrant QGIS (un logiciel de cartographie), nous avons constaté que certains
 
     cut -d ';' -f2 arbres_par_quartiers.txt|awk '{s+=$1} END {print s}'
 
-Le jeu de données final le plus complet est `arbres_seve_nantes.geojson`
+Le jeu de données final le plus complet est `arbres_seve_nantes.geojson`.
+
+Si vous ne savez pas comment exploiter ce fichier avec les données géographiques, regardez du côté du fichier CSV `arbres_seve_nantes.csv`
 
 ## Reste à faire/trancher sur le jeu de données
 
