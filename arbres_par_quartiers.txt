@@ -1,0 +1,11 @@
+Bellevue - Chantenay - Sainte-Anne;4181
+Breil - Barberie;3553
+Dervallières - Zola;4033
+Nantes Nord;7038
+Hauts Pavés - Saint-Félix;4524
+Centre Ville;2911
+Ile de Nantes;5019
+Nantes Sud;2295
+Doulon - Bottière;6094
+Malakoff - Saint-Donatien;4465
+Nantes Erdre;8174
